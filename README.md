@@ -97,7 +97,13 @@ Diet-Management-System/
 ├── bg1.png
 └── README.md
 ```
+# Dashboard
 
+![Dashboard](assets/dashboard_image.png)
+
+# Login Page
+
+![Calorie](assets/Calorie_Tracker.png)
 ---
 
 # ⚙️ Installation
