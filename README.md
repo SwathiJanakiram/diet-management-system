@@ -99,7 +99,7 @@ Diet-Management-System/
 ```
 # Dashboard
 
-![Dashboard](imagesdashboard_image.png)
+![Dashboard](dashboard_image.png)
 
 # Login Page
 
