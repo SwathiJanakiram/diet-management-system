@@ -99,11 +99,11 @@ Diet-Management-System/
 ```
 # Dashboard
 
-![Dashboard](assets/dashboard_image.png)
+![Dashboard](imagesdashboard_image.png)
 
 # Login Page
 
-![Calorie](assets/Calorie_Tracker.png)
+![Calorie](images/Calorie_Tracker.png)
 ---
 
 # ⚙️ Installation
