@@ -198,20 +198,5 @@ Users can:
 
 ---
 
-# 👩‍💻 Author
-
-**Swathi Janakiram**
-
-MCA Graduate | Python & Full Stack Developer
-
----
-
-# ⭐ Support
-
-If you like this project:
-
-- Give it a ⭐ on GitHub
-- Fork the repository
-- Contribute improvements
 
 ---
